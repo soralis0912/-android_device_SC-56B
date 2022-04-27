@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/samsung/SC-56B
+LOCAL_PATH := device/samsung/SC_56B
